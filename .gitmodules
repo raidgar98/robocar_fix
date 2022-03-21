@@ -1,0 +1,4 @@
+[submodule "donkeycar"]
+	path = donkeycar
+	url = https://github.com/raidgar98/donkeycar.git
+	branch = km_deve
